@@ -1,6 +1,7 @@
 # Education Mart(Buy a course)
 
-Live site- https://healthcare-website-nazma.netlify.app/
+Live site- [Education Mart](https://buy-courses.netlify.app/)
+
 
 ## About Education Mart
 
