@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Chemical Engineering",
+    "description": "Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.",
+    "img": "https://university.cactusthemes.com/wp-content/uploads/2014/10/002-526x526.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Information System",
+    "description": "Et harum quidem rerum facilis est et expedita distinctio Sed quia non numquam eius.",
+    "img": "https://university.cactusthemes.com/wp-content/uploads/2014/07/university-course-001-526x526.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bachelor Of Nursing",
+    "description": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.",
+    "img": "https://university.cactusthemes.com/wp-content/uploads/2014/07/university-course-008-526x526.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Master Of Gamification",
+    "description": "Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit.",
+    "img": "https://university.cactusthemes.com/wp-content/uploads/2014/05/university-course-009-526x526.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+.bannerImg {
+  background-color: rgba(0, 0, 0, 0);
+  background-repeat: no-repeat;
+  background-image: url(../../../images/bg3.jpg);
+  background-size: cover;
+  background-position: center 10%;
+  width: 100%;
+  height: 500px;
+  opacity: 1;
+  z-index: 20;
+  visibility: inherit;
+  position: inherit;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.bannerText {
+  font-family: sans-serif;
+  padding: 150px 0px 0px 100px !important;
+  color: #fff;
+}
+.bannerText h2 {
+  font-size: 45px;
+}
+.bannerText p {
+  letter-spacing: 3px;
+  line-height: 3;
+}
+.bannerText button {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.25;
+  letter-spacing: 0.1em;
+  padding: 10px 25px;
+  /* border: none; */
+  background-color: rgb(89, 89, 173);
+  color: #fff;
+}
+.bannerText button:hover {
+  background: #f2184f;
+  border-color: #f2184f;
+  color: #fff;
+}

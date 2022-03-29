@@ -1,0 +1,13 @@
+.subscribe h2 {
+  font-size: 25px;
+  color: #fff;
+  font-weight: normal;
+}
+.subscribe button {
+  background-color: #0c0a0a;
+  color: #fff;
+}
+.subscribe input {
+  height: 35px;
+  width: 360px;
+}

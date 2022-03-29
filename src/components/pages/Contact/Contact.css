@@ -1,0 +1,27 @@
+.banner-content {
+  background-image: url("../../../images/bg3.jpg"),
+    linear-gradient(rgb(25 62 90 / 50%), rgb(76 54 9 / 50%));
+  height: 320px;
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 120px;
+  color: aliceblue;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.btn-style {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.25;
+  letter-spacing: 0.1em;
+  padding: 10px 25px;
+  /* border: none; */
+  background-color: rgb(89, 89, 173);
+  color: #fff;
+}

@@ -1,0 +1,30 @@
+.service img {
+  width: 100%;
+}
+.service-text {
+  border: 1px solid rgb(199, 199, 199);
+  padding: 20px;
+}
+.service-text h3 {
+  font-size: 21px !important;
+}
+.service-text p {
+  margin-left: -10px !important;
+  font-size: 13px !important;
+}
+.service-text button {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.25;
+  letter-spacing: 0.1em;
+  padding: 10px 25px;
+  /* border: none; */
+  background-color: rgb(89, 89, 173);
+  color: #fff;
+}
+.service-text button:hover {
+  background: #f2184f;
+  border-color: #f2184f;
+  color: #fff;
+}

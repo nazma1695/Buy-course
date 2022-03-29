@@ -1,0 +1,14 @@
+.login-text {
+  text-align: center;
+}
+.login-btn {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.25;
+  letter-spacing: 0.1em;
+  padding: 10px 25px;
+  /* border: none; */
+  background-color: rgb(89, 89, 173);
+  color: #fff;
+}
